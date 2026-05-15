@@ -120,11 +120,12 @@ mysql -u root -p ercan_airport < 03_QUERIES.sql
 
 ---
 
-## 👥 Team
 
-| Name | Role | GitHub |
-|------|------|--------|
-| _Add team members here_ | _Role_ | _@handle_ |
+## 👥 Project Author
+
+| Name | Student ID | GitHub |
+|------|------------|--------|
+| [Gledy Miho] | [22326262] | [@Prevo1234](https://github.com/Prevo1234) |
 
 ---
 
